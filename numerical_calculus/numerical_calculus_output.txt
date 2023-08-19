@@ -1,0 +1,14 @@
+.............  Numerical Differentiator and Integrator ...........
+
+ -> Enter Function Number (as defined in program): 2
+ -> Enter mode (0: Differentiation, 1: Integration): 1
+ -> Integration Lower Limit: 0
+ -> Integration Upper Limit: 10
+ -> Integration Interval Count (0 for default): 0
+
+RESULTS 
+  Trapezoid: 2176.9
+  Simpson 1/3: 2176.666666666667
+  Simpson 3/8: 2176.666666666667
+
+ -> Enter Function Number (as defined in program): 
